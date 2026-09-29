@@ -1,0 +1,2 @@
+text,source,prediction,prediction_label,confidence,fake_prob,real_prob
+"India defeat West Indies by eight wickets in the first ODI, taking a 1–0 lead in the series. India chased down the target comfortably, with the result giving them an early advantage in the series.",unknown,1,REAL,0.8858692646026611,0.11413073539733887,0.8858692646026611

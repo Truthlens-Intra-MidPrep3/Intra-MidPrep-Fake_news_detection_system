@@ -1,0 +1,21 @@
+source,credibility_score
+reuters,0.92
+associated press,0.91
+ap,0.91
+bbc,0.88
+bbc news,0.88
+nytimes,0.87
+washington post,0.85
+npr,0.84
+guardian,0.83
+abc news,0.8
+nbc news,0.79
+msnbc,0.75
+cnn,0.72
+huffpost,0.7
+foxnews,0.68
+news.com.au,0.65
+daily mail,0.58
+breitbart,0.52
+unknown,0.5
+infowars,0.15
