@@ -163,4 +163,6 @@ TruthLens supports human review; it should not be the sole basis for removing co
 
 ## License
 
-`<Choose a license, e.g. MIT, and add a LICENSE file.>`
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
