@@ -161,8 +161,6 @@ TruthLens supports human review; it should not be the sole basis for removing co
 - Larger, data-driven source-credibility scoring
 - Persistent storage and multi-reviewer accounts
 
-`<Name — role>` · `<Name — role>` · `<Name — role>`
-
 ## License
 
 `<Choose a license, e.g. MIT, and add a LICENSE file.>`
